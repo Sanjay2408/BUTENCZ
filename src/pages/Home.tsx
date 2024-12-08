@@ -13,7 +13,7 @@ export default function Home() {
       name: "Mystic Aura",
       price: "₹299",
       description: "An enigmatic fragrance that leaves a lasting impression.",
-      image: "https://www.flaticon.com/free-icon/link_455691?term=link&page=1&position=3&origin=tag&related_id=455691"
+      image: "/logo.png"
     },
     {
       name: "Velvet Blue",
